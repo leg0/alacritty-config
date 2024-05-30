@@ -1,0 +1,23 @@
+import = ["~/.config/alacritty/catppuccin-alacritty/catppuccin-mocha.toml"]
+
+
+[font]
+size = 7.0
+
+[font.bold]
+family = "Cascadia Code NF"
+style = "Regular"
+
+[font.italic]
+family = "Cascadia Code NF"
+style = "Light Italic"
+
+[font.bold_italic]
+family = "Cascadia Code NF"
+style = "Bold Italic"
+
+[font.normal]
+family = "Cascadia Code NF"
+style = "Light"
+
+
